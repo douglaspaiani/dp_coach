@@ -1,4 +1,4 @@
-<h1 align="left">Sistema para personais trainers com IA</h1>
+<h1 align="left">Seja bem vindo ao DP_COACH!</h1>
 
 ###
 
